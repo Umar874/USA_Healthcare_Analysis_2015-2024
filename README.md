@@ -5,7 +5,7 @@ State-level Excel analysis of U.S. healthcare data (2015–2024) exploring expen
 <img width="1576" height="792" alt="USA HEALTH DASHBOARD" src="https://github.com/user-attachments/assets/4adb8cf2-a38a-4b8b-b22f-286c7dd289aa" />
 
 
-. Introduction
+1. Introduction
 
 Objective of the Project
 
@@ -29,7 +29,7 @@ All analysis was conducted using Microsoft Excel, applying:
 
 •	Charts and dashboards for visualization of patterns
 
-3. Story of Data
+2. Story of Data
 
 This dataset captures the activities of healthcare facilities in the United States for the year 2016. It includes information on facility performance, patient discharges, case severity, medical and surgical classifications, and associated costs. The data helps paint a clear picture of healthcare delivery patterns, operational efficiency, and cost implications across different facilities.
 
@@ -41,7 +41,7 @@ Value to the Industry
 
 It demonstrates how Excel can support data-backed healthcare management without requiring complex programming, making it practical for non-technical analysts in health institutions.
 
-Data Source
+3. Data Source
 
 The dataset was downloaded from Kaggle.com
 
